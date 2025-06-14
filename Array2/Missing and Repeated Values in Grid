@@ -1,0 +1,55 @@
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class Solution {
+
+    public int[] findMissingAndRepeatedValues(int[][] grid) {
+        int n = grid.length;
+        int N = n * n;
+        int repeated = -1, missing = -1;
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        // Count frequency of each number
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                map.put(grid[i][j], map.getOrDefault(grid[i][j], 0) + 1);
+            }
+        }
+
+        // Find repeated and missing values
+        for (int num = 1; num <= N; num++) {
+            if (map.containsKey(num)) {
+                if (map.get(num) == 2) {
+                    repeated = num;
+                }
+            } else {
+                missing = num;
+            }
+        }
+
+        return new int[]{repeated, missing};
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        // Example input for a 3x3 grid
+        System.out.println("Enter grid size n (for n x n matrix): ");
+        int n = sc.nextInt();
+        int[][] grid = new int[n][n];
+
+        System.out.println("Enter the elements of the grid row-wise:");
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                grid[i][j] = sc.nextInt();
+            }
+        }
+
+        Solution sol = new Solution();
+        int[] result = sol.findMissingAndRepeatedValues(grid);
+
+        System.out.println("Repeated Value: " + result[0]);
+        System.out.println("Missing Value: " + result[1]);
+    }
+}
