@@ -29,3 +29,12 @@ Day 3: Problem Solving on Arrays ✅
 - Stock Buy & Sell (Max Profit) → `Buy_Sell_Stock.java`  
 - Largest number in array → `LargestNo.java`  
 - All pair combinations in array → `AllPair.java`
+
+Day 4: Problem Solving on Arrays ✅
+
+- Missing and repeated value in grid
+- Merge Sorted Array
+
+Day 5: Problem Solving on Arrays ✅
+- Single Number
+- Pow(x,n)
