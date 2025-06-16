@@ -38,3 +38,9 @@ Day 4: Problem Solving on Arrays ✅
 Day 5: Problem Solving on Arrays ✅
 - Single Number
 - Pow(x,n)
+
+Day 6: Problem Solving on Arrays ✅
+- Maximum_Subarray
+- Rotate_Array(from k )
+- Remove Duplicates from Sorted Array
+
