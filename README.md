@@ -43,4 +43,11 @@ Day 6: Problem Solving on Arrays ✅
 - Maximum_Subarray
 - Rotate_Array(from k )
 - Remove Duplicates from Sorted Array
+- Search in 2d array
+
+Day 7: Problem Solving on Arrays (TWO POINTER APPROACH) ✅
+- Container with most water
+- Sort array of 0s, 1s,2s
+- 3 sum
+- 4sum
 
