@@ -51,3 +51,7 @@ Day 7: Problem Solving on Arrays (TWO POINTER APPROACH) ✅
 - 3 sum
 - 4sum
 
+Day 8: Problem Solving on Arrays (TWO POINTER APPROACH) ✅
+- Next Permutation
+- Merge Interval
+
