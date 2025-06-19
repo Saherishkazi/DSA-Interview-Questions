@@ -1,0 +1,19 @@
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+       Set<Character> set = new HashSet<>();
+     int start = 0 , maxLen =0;
+
+     for(int end =0 ;end< s.length() ; end++){
+        char ch = s.charAt(end);
+//agar set char contain kr raha hai to remove from starting and move the pointer
+        while(set.contains(ch)){
+          set.remove(s.charAt(start));
+          start++;
+        }
+        set.add(ch);
+        maxLen = Math.max(maxLen , end -start +1);
+     }
+     return maxLen;
+
+        }
+}
