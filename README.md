@@ -55,3 +55,6 @@ Day 8: Problem Solving on Arrays (TWO POINTER APPROACH) ✅
 - Next Permutation
 - Merge Interval
 
+Day 9: Problem Solving on Arrays ✅
+- Longest Substring without repeating Characters(Sliding Window , Hash Table)
+- Set Matrix Zeroes
