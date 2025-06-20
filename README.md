@@ -59,3 +59,7 @@ Day 9: Problem Solving on Arrays ✅
 - Longest Substring without repeating Characters(Sliding Window , Hash Table)
 - Set Matrix Zeroes
 - Product of array except self (Prefix sum)
+
+Day 10: Problem Solving on Arrays ✅
+- Subarray Sum Equals K (Array, Hash Table, Prefix Sum)
+- Find Duplicate
