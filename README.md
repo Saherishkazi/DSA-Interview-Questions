@@ -63,3 +63,9 @@ Day 9: Problem Solving on Arrays ✅
 Day 10: Problem Solving on Arrays ✅
 - Subarray Sum Equals K (Array, Hash Table, Prefix Sum)
 - Find Duplicate
+
+Day 11: Problem Solving on 2D_Arrays ✅
+- Diagonal_Sum
+- Spiral_Matrix
+- Search in sorted matrix
+- Word_Search
