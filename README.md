@@ -12,26 +12,24 @@ Day 1: Java Fundamentals ✅
 - Simple programs (reverse number, sum, even/odd check)
 - Advance Pattern problem
 
-Day 2: Arrays ✅
 
+Day 2: Arrays ✅
 - Array declaration and input/output  
 - Traversal using loops  
-- Reverse array → `reverseArray.java`  
-- Linear search → `linear_search.java`  
-- Kadane’s Algorithm → `kadanes.java`  
-- Subarray generation → `subArray.java`  
-- Check palindrome → `PalindromeCheck.java`
+- Reverse array  
+- Linear search   
+- Kadane’s Algorithm 
+- Subarray generation  
+- Check palindrome 
 
 Day 3: Problem Solving on Arrays ✅
-
-- Find maximum sum subarray → `kadanes.java`  
-- Trapping rainwater → `Trapping_Rainwater.java`  
-- Stock Buy & Sell (Max Profit) → `Buy_Sell_Stock.java`  
-- Largest number in array → `LargestNo.java`  
-- All pair combinations in array → `AllPair.java`
+- Find maximum sum subarray 
+- Trapping rainwater  
+- Stock Buy & Sell (Max Profit) 
+- Largest number in array  
+- All pair combinations in array 
 
 Day 4: Problem Solving on Arrays ✅
-
 - Missing and repeated value in grid
 - Merge Sorted Array
 
@@ -69,3 +67,9 @@ Day 11: Problem Solving on 2D_Arrays ✅
 - Spiral_Matrix
 - Search in sorted matrix
 - Word_Search
+
+Day 12: Problem Solving on Arrays ✅
+- Count Inversion (hard)
+- Trapping Rainwater (hard)
+- Sliding Window Maximum (hard)
+- Reverse Pairs (hard)
