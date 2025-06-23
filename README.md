@@ -73,3 +73,19 @@ Day 12: Problem Solving on Arrays ✅
 - Trapping Rainwater (hard)
 - Sliding Window Maximum (hard)
 - Reverse Pairs (hard)
+- Largest Rectangular in Histogram (hard)
+
+Day 13: Problem Solving on Arrays ✅
+
+- Today was all about revision!
+  Revised all previously solved DSA questions to strengthen concepts and improve speed & accuracy.
+🧠 Topics Revisited:
+   # Arrays
+   # 2D-Arrays
+   # Two Pointers
+   # Hashing
+   # Sliding Window
+   # Prefix and suffix
+
+✅ Reinforced logic, optimized approach & spotted patterns faster.
+📌 Revision is as important as solving new problems. Let’s keep the consistency going! 
