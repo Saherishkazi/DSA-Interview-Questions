@@ -89,3 +89,13 @@ Day 13: Problem Solving on Arrays ✅
 
 ✅ Reinforced logic, optimized approach & spotted patterns faster.
 📌 Revision is as important as solving new problems. Let’s keep the consistency going! 
+
+Day 14:Revision day
+Concept Recall
+Took a light day today but stayed in touch with DSA by revisiting some important concepts mentally.
+
+💭 Recalled Topics:
+Time & Space Complexity basics
+Common patterns in Arrays & Strings
+Binary Search edge cases
+🔁 Not every day needs to be problem-solving. Even passive revision keeps the momentum going.
