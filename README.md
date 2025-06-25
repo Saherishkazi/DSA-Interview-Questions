@@ -99,3 +99,28 @@ Time & Space Complexity basics
 Common patterns in Arrays & Strings
 Binary Search edge cases
 🔁 Not every day needs to be problem-solving. Even passive revision keeps the momentum going.
+
+Day 14: String basic ✅
+Today I revised core **String concepts** in DSA.  
+Here’s a quick summary of what I brushed up:
+# String Basics:
+- **Strings are immutable** in Java → Once created, cannot be changed.
+- Stored as a sequence of characters → Internally uses character arrays.
+
+# Common String Operations:
+| Operation | Method | Example |
+|---------- |--------|---------|
+| Length    | `str.length()`   | `"abc".length()` → 3 |
+| Char at index | `str.charAt(i)` | `"abc".charAt(1)` → `'b'` |
+| Substring     | `str.substring(start, end)` | `"abcdef".substring(1,4)` → `"bcd"` |
+| Equality      | `str.equals(str2)` | `"abc".equals("abc")` → `true` |
+| Ignore case   | `str.equalsIgnoreCase(str2)` | `"ABC".equalsIgnoreCase("abc")` → `true` |
+| Concatenation | `str1 + str2` or `str.concat(str2)` | `"a" + "b"` → `"ab"` |
+
+# Interview Key Points:
+- Use `.toCharArray()` for character-based problems  
+- Know how to reverse a string using `StringBuilder`  
+- Understand **StringBuilder vs String** (mutable vs immutable)  
+- Learn frequency counting with HashMap or int[26] for lowercase letters
+-Check if a string is a palindrome
+
