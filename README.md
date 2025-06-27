@@ -124,3 +124,7 @@ Here’s a quick summary of what I brushed up:
 - Learn frequency counting with HashMap or int[26] for lowercase letters
 -Check if a string is a palindrome
 
+Day 15: Problem Solving on String ✅
+- Valid Palindrome
+- Valid Anagram
+
