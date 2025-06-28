@@ -128,3 +128,7 @@ Day 15: Problem Solving on String ✅
 - Valid Palindrome
 - Valid Anagram
 
+Day 16: Problem Solving on String ✅
+ - Reverse Words in a String
+ - Remove All Occurrences of a Substring
+
