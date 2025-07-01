@@ -140,3 +140,7 @@ Day 18: Problem Solving on String ✅
 - Longest common prefix
 - Group Anagrams
 
+Day 19: Problem Solving on String ✅
+ - Longest Happy Prefix
+ - Minimum Window Substring
+
