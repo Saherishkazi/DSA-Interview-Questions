@@ -144,3 +144,44 @@ Day 19: Problem Solving on String ✅
  - Longest Happy Prefix
  - Minimum Window Substring
 
+Day 20: Revision day
+String Revision – 
+✅ Reverse a String
+Use StringBuilder or manual two-pointer approach.
+Reverse in place for char[] using swap.
+
+✅ Palindrome Check
+Compare characters from start & end (left, right).
+Move pointers inward; stop if mismatch.
+
+✅ Anagram Check
+Same length strings + same character counts.
+Use frequency array (int[26]) or HashMap<Character, Integer>.
+Sorting both strings & comparing is also valid.
+
+✅ Longest Common Prefix
+Compare prefix with each string.
+Shrink prefix until all strings start with it.
+Return empty string "" if no common prefix.
+
+✅ Group Anagrams
+Anagrams → same sorted string.
+Use HashMap<sortedString, List<String>>.
+Collect all words with same sorted key.
+
+✅ Permutation in String
+Use sliding window of length s1.length().
+Keep character frequency counts of window & s1.
+Slide window: add right char, remove left char; compare counts.
+
+✅ String Compression
+Use two pointers (read, write).
+Count consecutive repeating chars.
+Write char + count (if >1) in place.
+
+✏️ Other Useful Points:
+'a' - 'a' trick → map char 'a'–'z' to index 0–25.
+StringBuilder for efficient string concatenation.
+.equals() vs == → use .equals() to compare string values.
+Strings are immutable → changes create new objects.
+
