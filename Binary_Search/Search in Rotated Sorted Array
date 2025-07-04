@@ -1,0 +1,35 @@
+class Solution {
+    public int search(int[] nums, int target) {
+         return searchHelper(nums, target, 0, nums.length - 1);
+    }
+    private int searchHelper(int[] nums, int target, int si, int ei) {
+        //base case
+        if(si > ei){
+            return -1;
+        }
+
+        int mid = si + (ei -si)/2;
+        if(nums[mid] == target){
+            return mid;
+        }
+        //Line 1
+        if(nums[si] <= nums[mid]){
+            if(nums[si] <= target && target<= nums[mid]){
+                return searchHelper(nums, target,si, mid-1);
+            }else{
+                return searchHelper(nums,target,mid+1,ei);
+            }
+
+        }else{
+         //Line 2
+         if(nums[mid] <= target && target <= nums[ei]){
+            return searchHelper(nums, target,mid+1,ei);
+         }
+         else{
+            return searchHelper(nums, target,si,mid-1);
+         }
+
+        }
+        
+    }
+}
