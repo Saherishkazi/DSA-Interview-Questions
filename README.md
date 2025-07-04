@@ -185,3 +185,7 @@ StringBuilder for efficient string concatenation.
 .equals() vs == → use .equals() to compare string values.
 Strings are immutable → changes create new objects.
 
+Day 21: Problem Solving on Binary Search ✅
+- Peak Index in Mountain Array
+- Search in Rotated Sorted Array
+
