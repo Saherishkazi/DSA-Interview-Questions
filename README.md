@@ -189,3 +189,7 @@ Day 21: Problem Solving on Binary Search ✅
 - Peak Index in Mountain Array
 - Search in Rotated Sorted Array
 
+Day 22: Problem Solving on Binary Search ✅
+- Single Element in a Sorted Array
+- Minimized Maximum of Products Distributed to Any Store
+
