@@ -193,3 +193,7 @@ Day 22: Problem Solving on Binary Search ✅
 - Single Element in a Sorted Array
 - Minimized Maximum of Products Distributed to Any Store
 
+Day 23: Problem Solving on String ✅
+- Find the Index of the First Occurrence in a String
+- Length of last word
+
