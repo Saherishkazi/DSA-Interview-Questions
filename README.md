@@ -22,6 +22,7 @@ Day 2: Arrays ✅
 - Subarray generation  
 - Check palindrome 
 
+
 Day 3: Problem Solving on Arrays ✅
 - Find maximum sum subarray 
 - Trapping rainwater  
@@ -29,13 +30,16 @@ Day 3: Problem Solving on Arrays ✅
 - Largest number in array  
 - All pair combinations in array 
 
+
 Day 4: Problem Solving on Arrays ✅
 - Missing and repeated value in grid
 - Merge Sorted Array
 
+
 Day 5: Problem Solving on Arrays ✅
 - Single Number
 - Pow(x,n)
+
 
 Day 6: Problem Solving on Arrays ✅
 - Maximum_Subarray
@@ -43,24 +47,29 @@ Day 6: Problem Solving on Arrays ✅
 - Remove Duplicates from Sorted Array
 - Search in 2d array
 
+
 Day 7: Problem Solving on Arrays (TWO POINTER APPROACH) ✅
 - Container with most water
 - Sort array of 0s, 1s,2s
 - 3 sum
 - 4sum
 
+
 Day 8: Problem Solving on Arrays (TWO POINTER APPROACH) ✅
 - Next Permutation
 - Merge Interval
+
 
 Day 9: Problem Solving on Arrays ✅
 - Longest Substring without repeating Characters(Sliding Window , Hash Table)
 - Set Matrix Zeroes
 - Product of array except self (Prefix sum)
 
+
 Day 10: Problem Solving on Arrays ✅
 - Subarray Sum Equals K (Array, Hash Table, Prefix Sum)
 - Find Duplicate
+
 
 Day 11: Problem Solving on 2D_Arrays ✅
 - Diagonal_Sum
@@ -68,12 +77,14 @@ Day 11: Problem Solving on 2D_Arrays ✅
 - Search in sorted matrix
 - Word_Search
 
+
 Day 12: Problem Solving on Arrays ✅
 - Count Inversion (hard)
 - Trapping Rainwater (hard)
 - Sliding Window Maximum (hard)
 - Reverse Pairs (hard)
 - Largest Rectangular in Histogram (hard)
+
 
 Day 13: Problem Solving on Arrays ✅
 
@@ -100,6 +111,7 @@ Common patterns in Arrays & Strings
 Binary Search edge cases
 🔁 Not every day needs to be problem-solving. Even passive revision keeps the momentum going.
 
+
 Day 14: String basic ✅
 Today I revised core **String concepts** in DSA.  
 Here’s a quick summary of what I brushed up:
@@ -124,25 +136,31 @@ Here’s a quick summary of what I brushed up:
 - Learn frequency counting with HashMap or int[26] for lowercase letters
 -Check if a string is a palindrome
 
+
 Day 15: Problem Solving on String ✅
 - Valid Palindrome
 - Valid Anagram
+
 
 Day 16: Problem Solving on String ✅
  - Reverse Words in a String
  - Remove All Occurrences of a Substring
 
+
 Day 17: Problem Solving on String ✅
 - Permutation in String
 - String Compression
+
 
 Day 18: Problem Solving on String ✅
 - Longest common prefix
 - Group Anagrams
 
+
 Day 19: Problem Solving on String ✅
  - Longest Happy Prefix
  - Minimum Window Substring
+
 
 Day 20: Revision day
 String Revision – 
@@ -185,16 +203,36 @@ StringBuilder for efficient string concatenation.
 .equals() vs == → use .equals() to compare string values.
 Strings are immutable → changes create new objects.
 
+
 Day 21: Problem Solving on Binary Search ✅
 - Peak Index in Mountain Array
 - Search in Rotated Sorted Array
+
 
 Day 22: Problem Solving on Binary Search ✅
 - Single Element in a Sorted Array
 - Minimized Maximum of Products Distributed to Any Store
 
+
 Day 23: Problem Solving on String ✅
 - Find the Index of the First Occurrence in a String
 - Length of last word
 - Roman to integer
+
+  
+Day 24: Problem Solving on String ✅
+- Today, I started learning recursion:
+✅ What it is, how it works, and why it’s useful.
+🧠 Recursion:
+ - A method calling itself to solve smaller subproblems.
+ - Needs a base case to stop recursion.
+ - Powerful tool for problems that have repetitive, self‑similar structure.
+ - 
+ * Basic problems
+- Check if an array is sorted (increasing order)
+- Find factorial of a number using recursion
+- Print nth Fibonacci number using recursion
+- Find first occurrence of an element in array using recursion
+- Print numbers from 1 to n in increasing order using recursion
+
 
