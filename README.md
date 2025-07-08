@@ -227,12 +227,18 @@ Day 24: Problem Solving on String ✅
  - A method calling itself to solve smaller subproblems.
  - Needs a base case to stop recursion.
  - Powerful tool for problems that have repetitive, self‑similar structure.
- - 
+   
  * Basic problems
 - Check if an array is sorted (increasing order)
 - Find factorial of a number using recursion
 - Print nth Fibonacci number using recursion
 - Find first occurrence of an element in array using recursion
 - Print numbers from 1 to n in increasing order using recursion
+
+
+Day 24: Problem Solving on String ✅
+ - Sum of natural numbers
+ - Find duplicates
+ - Binary String
 
 
