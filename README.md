@@ -241,4 +241,9 @@ Day 24: Problem Solving on String ✅
  - Find duplicates
  - Binary String
 
+Day 25: Problem Solving on String ✅
+ - check the array is sorted or not
+ - Tiling problem
+ - Prime number
+
 
