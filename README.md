@@ -241,9 +241,12 @@ Day 24: Problem Solving on recursion ✅
  - Find duplicates
  - Binary String
 
-Day 25: Problem Solving on String ✅
+Day 25: Problem Solving on recursion ✅
  - check the array is sorted or not
  - Tiling problem
  - Prime number
 
+Day 25: Problem Solving on recursion ✅
+- Pair of friends
+- optimizes power
 
