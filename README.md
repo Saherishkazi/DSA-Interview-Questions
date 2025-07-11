@@ -250,3 +250,5 @@ Day 25: Problem Solving on recursion ✅
 - Pair of friends
 - optimizes power
 
+Day 25: Problem Solving on ArrayList ✅
+-Basic of Array List
