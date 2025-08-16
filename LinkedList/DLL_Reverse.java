@@ -8,7 +8,6 @@
                 curr.prev =next; //
                 prev =curr;
                 curr =next;
-
             }
             head =prev;
         }
