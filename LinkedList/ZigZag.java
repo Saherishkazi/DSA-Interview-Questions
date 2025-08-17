@@ -6,7 +6,6 @@
         while(fast != null && fast.next != null){
             slow =slow.next;
             fast =fast.next.next;
-
         }
         Node mid= slow;
         //reverse
@@ -20,7 +19,6 @@
             curr.next =prev;
             prev =curr;
             curr =next;
-
         }
         //return prev
         
@@ -40,5 +38,4 @@
             LH =Lnext;
 
         }
-
     }
