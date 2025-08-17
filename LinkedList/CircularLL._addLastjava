@@ -5,6 +5,7 @@ public void addL(int data){
         head =tail=newNode;
         tail.next =head;
     }
+
     tail.next =newNode;
     tail =newNode;
     tail.next =head;
