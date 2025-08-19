@@ -15,7 +15,6 @@ public class Buy_Sell_Stock {
             }
         }
         return MaxProfit;
-
     }
 
     public static void main(String arg[]){
@@ -24,3 +23,4 @@ public class Buy_Sell_Stock {
     }
     
 }
+
