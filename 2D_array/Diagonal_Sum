@@ -13,7 +13,6 @@ public class DiagonalSum {
             for(int j=startCol; j<=endCol; j++){
                 System.out.print(matrix[startRow][j] +" ");
             }
-    
             //right
             for(int i=startRow+1; i<=endRow; i++){
             System.out.print(matrix[i][endCol]+ " ");
@@ -39,7 +38,6 @@ public class DiagonalSum {
             startRow++;
             endCol--;
             endRow--;
-    
         }
         System.out.println();
     }
