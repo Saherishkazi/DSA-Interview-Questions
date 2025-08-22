@@ -19,6 +19,7 @@ class Solution {
         for(int q : quantities) {
             totalStores += (q + maxPerStore - 1) / maxPerStore; // ceil(q/maxPerStore)
         }
+
         return totalStores <= n;
     }
 }
