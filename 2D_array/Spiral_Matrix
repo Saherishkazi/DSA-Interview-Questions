@@ -13,7 +13,6 @@ class Solution {
             for (int j = startCol; j <= endCol; j++) {
                 result.add(matrix[startRow][j]);
             }
-
             // right column
             for (int i = startRow + 1; i <= endRow; i++) {
                 result.add(matrix[i][endCol]);
