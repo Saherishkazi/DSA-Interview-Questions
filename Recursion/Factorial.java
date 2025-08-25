@@ -7,7 +7,6 @@ public class Factorial {
            
             return 1;
         }
-        
         int last = fact(n-1);
         int fn = n* fact(n-1);
         return fn;
@@ -18,4 +17,5 @@ public class Factorial {
     }
     
 }
+
 
