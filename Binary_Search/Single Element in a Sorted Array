@@ -5,7 +5,6 @@ class Solution {
             int mid = left + (right-left)/2;
            
             if(mid %2 ==1) mid--;
-
             if(nums[mid] == nums[mid+1]) {
                 // single element must be on right
                 left=mid+2;
