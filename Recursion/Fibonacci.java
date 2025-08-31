@@ -5,8 +5,6 @@ public class Fibonacci {
         if(n == 0 || n==1){
             return n;
         }
-    
-
         int fib0 = 0;
         int fib1 = 1;
         int fnm1 = fibo(n-1);
@@ -20,3 +18,4 @@ public class Fibonacci {
     }
     
 }
+
