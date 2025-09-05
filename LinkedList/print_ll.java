@@ -4,6 +4,7 @@
         if(head == null){
             head = tail =newNode;
             return;
+         
         }
         tail.next =newNode;
         tail = newNode;
