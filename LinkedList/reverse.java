@@ -2,7 +2,7 @@
         Node prev =null;
         Node curr =tail = head;
         Node next;
-        
+       
         while(curr != null){
             next =curr.next;
             curr.next =prev;
@@ -10,4 +10,4 @@
             curr = next;
         }
         head = prev;
-    }
+ }
