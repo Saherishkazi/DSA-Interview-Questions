@@ -43,8 +43,6 @@ public class circularLL {
             //circular ll hai to null nahi aayega tail.next point karenga direct head ko
             while(temp != head);
                 System.out.println("back to head");
-            
-
     }
 public static void main(String arg[]){
         circularLL cll =new circularLL();
