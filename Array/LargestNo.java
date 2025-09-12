@@ -10,11 +10,10 @@ public static int getlargeNum(int number[]){
     return largest;
 }
 
-
-
     public static void main(String arg[]){
        int number[]= {1, 2, 6, 3,5};
        System.out.println("The largest value is: " + getlargeNum(number));
     }
     
 }
+
