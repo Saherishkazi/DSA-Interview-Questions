@@ -12,7 +12,6 @@ public class PalindromeCheck {
         }
         return true;
     }
-
     public static void main(String[] args) {
         String input = "Level";
         if (isPalindrome(input)) {
