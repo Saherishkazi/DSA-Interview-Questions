@@ -5,6 +5,7 @@ class Solution {
         map.put(num , map.getOrDefault(num ,0)+1);
             if(map.get(num) == 2){
                 return num;
+
             }
         }
         return -1;
