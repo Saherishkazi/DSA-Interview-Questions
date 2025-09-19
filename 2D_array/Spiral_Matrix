@@ -17,7 +17,6 @@ class Solution {
             for (int i = startRow + 1; i <= endRow; i++) {
                 result.add(matrix[i][endCol]);
             }
-
             // bottom row
             if (startRow < endRow) {  // important check
                 for (int j = endCol - 1; j >= startCol; j--) {
