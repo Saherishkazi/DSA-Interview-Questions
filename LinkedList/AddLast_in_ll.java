@@ -23,7 +23,6 @@
         if(head == null){
             System.out.println("ll is empty");
         }
-       
         Node temp = head;
         while(temp != null){
             System.out.print(temp.data+" ");
