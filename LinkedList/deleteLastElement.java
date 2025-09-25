@@ -1,6 +1,5 @@
  public int delteL(){
         //2 special cases
-        
         if(size == 0){
             System.out.println("empty");
         }else{
