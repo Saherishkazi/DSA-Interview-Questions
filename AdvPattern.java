@@ -16,6 +16,7 @@ public static void hollow_rectangular(int rows, int cols){
     }
 }
 
+    
 
 public static void rotatedHalfPyramid(int n){
     
@@ -163,3 +164,4 @@ public static void hollw_rhombus (int rows, int col){
     }
     
 }
+
