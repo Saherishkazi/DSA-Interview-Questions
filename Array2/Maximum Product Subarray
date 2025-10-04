@@ -1,0 +1,27 @@
+class Solution {
+    int maxProduct(int[] arr) {
+        // code here
+       int n = arr.length;
+        int maxPro = arr[0];
+        int maxEndingHere = arr[0];
+        int minEndingHere = arr[0];
+
+        for (int i = 1; i < n; i++) {
+            int num = arr[i];
+
+            if (num < 0) {
+                // swap max and min when negative
+                int temp = maxEndingHere;
+                maxEndingHere = minEndingHere;
+                minEndingHere = temp;
+            }
+
+            maxEndingHere = Math.max(num, maxEndingHere * num);
+            minEndingHere = Math.min(num, minEndingHere * num);
+
+            maxPro = Math.max(maxPro, maxEndingHere);
+        }
+
+        return maxPro;
+    }
+}
