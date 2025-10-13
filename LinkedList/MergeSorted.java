@@ -9,8 +9,6 @@
     }
     return slow;
        }
-
-
        private Node merge(Node head1, Node head2){
         Node mergeLL = new Node(-1);
         Node temp = mergeLL;
