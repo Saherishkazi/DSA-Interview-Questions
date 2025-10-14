@@ -14,6 +14,7 @@ class Solution {
                     max = nums[i + j];
                 }
             }
+
             result[i] = max;
         }
 
