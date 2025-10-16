@@ -9,7 +9,6 @@ class Solution {
 
         while (startRow <= endRow && startCol <= endCol) {
 
-
             // top row
             for (int j = startCol; j <= endCol; j++) {
                 result.add(matrix[startRow][j]);
