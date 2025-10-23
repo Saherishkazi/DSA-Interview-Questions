@@ -2,7 +2,8 @@ import java.util.*;
 
 public class DiagonalSum {
     public static void Spiral(int matrix[] []){
-   
+
+
         int startRow =0;
         int startCol = 0;
         int  endRow =matrix.length-1;
