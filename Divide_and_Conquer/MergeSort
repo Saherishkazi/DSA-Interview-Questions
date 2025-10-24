@@ -7,6 +7,7 @@ public class MergeSort {
             System.out.print(arr[i] +" ");
         }
         System.out.println();
+
     }
     //mergesort
     public static void mergeSort(int arr[], int si, int ei){
