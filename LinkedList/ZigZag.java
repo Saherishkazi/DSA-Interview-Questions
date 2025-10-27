@@ -14,6 +14,7 @@
         Node prev =null;
         Node next;
 
+
         while(curr != null){
             next =curr.next;
             curr.next =prev;
